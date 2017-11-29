@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab 1.4.40 (1).cpp
+d:\учеба\практика\cpa\1чаптер\lab 1.4.40 (1)\lab 1.4.40 (1)\lab 1.4.40 (1).cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\учеба\практика\cpa\1чаптер\lab 1.4.40 (1)\lab 1.4.40 (1)\lab 1.4.40 (1).cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\учеба\практика\cpa\1чаптер\lab 1.4.40 (1)\lab 1.4.40 (1)\lab 1.4.40 (1).cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab 1.4.40 (1).vcxproj -> D:\учеба\практика\CPA\1чаптер\Lab 1.4.40 (1)\x64\Debug\Lab 1.4.40 (1).exe

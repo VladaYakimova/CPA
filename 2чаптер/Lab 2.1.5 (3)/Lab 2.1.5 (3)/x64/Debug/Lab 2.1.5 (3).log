@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab 2.1.5 (3).cpp
+d:\учеба\практика\cpa\2чаптер\lab 2.1.5 (3)\lab 2.1.5 (3)\lab 2.1.5 (3).cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\учеба\практика\cpa\2чаптер\lab 2.1.5 (3)\lab 2.1.5 (3)\lab 2.1.5 (3).cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab 2.1.5 (3).vcxproj -> D:\учеба\практика\CPA\2чаптер\Lab 2.1.5 (3)\x64\Debug\Lab 2.1.5 (3).exe
