@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Lab 7.2.4 (1).cpp
+d:\учеба\практика\cpa1\7чаптер\lab 7.2.4 (1)\lab 7.2.4 (1)\lab 7.2.4 (1).cpp(21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\учеба\практика\cpa1\7чаптер\lab 7.2.4 (1)\lab 7.2.4 (1)\lab 7.2.4 (1).cpp(30): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\учеба\практика\cpa1\7чаптер\lab 7.2.4 (1)\lab 7.2.4 (1)\lab 7.2.4 (1).cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\учеба\практика\cpa1\7чаптер\lab 7.2.4 (1)\lab 7.2.4 (1)\lab 7.2.4 (1).cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lab 7.2.4 (1).vcxproj -> D:\учеба\практика\CPA1\7чаптер\Lab 7.2.4 (1)\Debug\Lab 7.2.4 (1).exe
